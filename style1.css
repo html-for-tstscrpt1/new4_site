@@ -1,0 +1,91 @@
+a{
+	color:green;
+	color:red;
+	font-size:25px;
+}
+div{
+	color:#cfeb34;
+}
+#ssylka{
+	color:green;
+}
+#ssylka1{
+	color:lime;
+}
+#testova_ssylka{
+	color:purple;
+	font-size:30px;
+}
+.human{
+	color:#4248f5;
+}
+.animal{
+	color:#f542e3;
+}
+.lion{
+	color:#f542e3;
+}
+.monkey{
+	color:#f5c842;
+}
+.fish{
+	color:#9c42f5;
+	
+}
+.message{
+	color:#747474;
+	background-color:#e4e4e4;
+	border: 1px solid #323232;
+	font-size:20px;
+	margin: 10px;
+}
+.success{
+	background-color:#9c42f5;
+	color:#ffffff;
+	margin-right:25px;
+	margin-top:40px;
+	margin-bottom:30px;
+	margin-left:30px;
+	padding:15px;
+	padding-bottom:20px;
+}
+.fail{
+	background-color:#f54254;
+}
+.info{
+	background-color:#4248f5;
+	color:#f5ef42;
+}
+.warning{
+	background-color:#42f2f5;
+	color:#f5ef42;
+}
+.warning:hover{
+	border:20px solid #323232; 
+}
+#tstssylka{
+	border: 15px solid #6e0c05;
+	color:#3d3d40;
+	background-color:#ab1b9c;
+	margin:15px;
+	padding:15px;
+	border-radius:30px;
+	opacity:0.5;
+}
+#tstssylka:hover{
+	opacity:1;
+	box-shadow: 30x 30px 7px #cc0000;
+	width:200px;
+	height:150px;
+	display:block;
+	font-size:30px;
+	font-weight:900;
+	transform:rotate(45deg) scale(1.5);
+}
+body{
+background-image:url(images.jpg);
+}
+#tstssylka2:hover{
+	transform:rotate(45deg);
+	transition: 0.5s all;
+}
